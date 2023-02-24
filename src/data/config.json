@@ -1,0 +1,13 @@
+{
+    "apiUrls": {
+        "users": "https://jsonplaceholder.typicode.com/users",
+        "posts": "https://jsonplaceholder.typicode.com/posts"
+    },
+    "userProfiles": {
+        "Name": "SD",
+        "Role": "Admin",
+        "linkedin": "https://www.linkedin.com/in/sumit-das-26508428/",
+        "facebook": "https://www.linkedin.com/in/sumit-das-26508428/",
+        "twitter": "https://www.linkedin.com/in/sumit-das-26508428/"
+    }
+}
