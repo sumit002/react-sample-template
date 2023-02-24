@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "baseUrl": "src"
+    },
+    "apiUrls": {
+        "users": "https://jsonplaceholder.typicode.com/users",
+        "posts": "https://jsonplaceholder.typicode.com/posts"
+    },
+    "userProfiles": {
+        "linkedin": "https://www.linkedin.com/in/sumit-das-26508428/",
+        "facebook": "https://www.linkedin.com/in/sumit-das-26508428/",
+        "twitter": "https://www.linkedin.com/in/sumit-das-26508428/"
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+}
